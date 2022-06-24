@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMS", "OMS\OMS.csproj", "{DBE89BA5-66A6-4CC1-AF64-DD235CAAFFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTests", "IntegrationTests\IntegrationTests.csproj", "{EA076996-2B0B-437C-BB81-AA4C8C41B459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE89BA5-66A6-4CC1-AF64-DD235CAAFFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE89BA5-66A6-4CC1-AF64-DD235CAAFFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE89BA5-66A6-4CC1-AF64-DD235CAAFFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE89BA5-66A6-4CC1-AF64-DD235CAAFFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA076996-2B0B-437C-BB81-AA4C8C41B459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA076996-2B0B-437C-BB81-AA4C8C41B459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA076996-2B0B-437C-BB81-AA4C8C41B459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA076996-2B0B-437C-BB81-AA4C8C41B459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74809C3-95BD-4149-8DAA-9126CBFCB111}
+	EndGlobalSection
+EndGlobal
